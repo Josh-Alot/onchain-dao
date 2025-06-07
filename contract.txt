@@ -1,0 +1,3 @@
+CryptoDevsNFT contract address: 0xac99274c19025f48711434ef2bdbb23167e8fcbc
+FakeNFTMarket contract address: 0x0748524ce96d631b0bb42f352688c4ca4dc0badf
+CriptoDevsDAO contract address: 0x126DB0E415Db649784f291bfd784DEa7Fa6bA486
