@@ -2,5 +2,7 @@
 src = "src"
 out = "out"
 libs = ["lib"]
+etherscan_api_key = "BGY6KGHHYV7CSYX8IT8G6HUCI8UGSEVS3H"
+eth_rpc_url = "https://eth-sepolia.g.alchemy.com/v2/BlH-gjGPvfbirvgwhQgSzDhUwL7YpLLl"
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
